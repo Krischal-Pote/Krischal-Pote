@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Krischal Om Pote 👋
 
-<!--
-**Krischal-Pote/Krischal-Pote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Team Lead at [Astergaze](https://github.com/astergaze-technologies). I build CRM and education-tech products for study-abroad and language-learning teams in Nepal.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** React, TypeScript, Tailwind CSS, TanStack (Query, Router, Table)
+
+**Backend:** Golang, Node.js
+
+**Tooling:** Vite, Turborepo, Bun, Biome
+
+## Selected work
+
+**[krischal-website](https://github.com/Krischal-Pote/krischal-website)** – personal website
+
+**[e-commerce-admin](https://github.com/Krischal-Pote/e-commerce-admin)** – admin dashboard
+
+**Asterconsult CRM** (private) – admin, student portal and omnichannel apps in a Turborepo monorepo
+
+## Contact
+
+🌐 [krischalompote.com.np](https://krischalompote.com.np/)
