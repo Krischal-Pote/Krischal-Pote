@@ -21,3 +21,9 @@ Team Lead at [Astergaze](https://github.com/astergaze-technologies). I build CRM
 ## Contact
 
 🌐 [krischalompote.com.np](https://krischalompote.com.np/)
+
+## GitHub stats
+
+![Krischal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krischal-Pote&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krischal-Pote&layout=compact&theme=github_dark&hide_border=true)
