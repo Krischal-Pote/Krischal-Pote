@@ -12,7 +12,9 @@ Team Lead at [Astergaze](https://github.com/astergaze-technologies). I build CRM
 
 **[krischal-website](https://github.com/Krischal-Pote/krischal-website)** – personal website
 
-**[clothegpt](https://github.com/Krischal-Pote/clothegpt)** – TanStack Start app built with React, Tailwind CSS and Drizzle ORM
+**[clothegpt](https://github.com/Krischal-Pote/clothegpt)** – web app built with TanStack Start, React, Tailwind CSS and Drizzle ORM, also built in React Native
+
+**mockapi** (private) – Chrome extension for mocking APIs, with a popup UI and table view
 
 **[wheel-of-fortune-kop](https://www.npmjs.com/package/wheel-of-fortune-kop)** – customizable React wheel-of-fortune component on npm, with CSV/JSON input and CRUD support ([source](https://github.com/Krischal-Pote/wheel-of-fortune-kop))
 
