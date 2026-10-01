@@ -4,9 +4,9 @@ Team Lead at [Astergaze](https://github.com/astergaze-technologies). I build CRM
 
 ## Skills
 
-![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,tailwind,vite,nodejs,go,php,c,postgres,docker,git,figma&theme=dark&perline=8)
+![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,tailwind,vite,nodejs,nestjs,go,php,laravel,c,postgres,docker,git,figma&theme=dark&perline=9)
 
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) ![TanStack Start](https://img.shields.io/badge/TanStack_Start-1F2937?style=for-the-badge) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) ![TanStack Start](https://img.shields.io/badge/TanStack_Start-1F2937?style=for-the-badge&logo=tanstack&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Selected work
 
