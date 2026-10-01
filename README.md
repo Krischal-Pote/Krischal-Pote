@@ -2,13 +2,9 @@
 
 Team Lead at [Astergaze](https://github.com/astergaze-technologies). I build CRM and education-tech products for study-abroad and language-learning teams in Nepal.
 
-## What I work with
+## Skills
 
-**Frontend:** React, TypeScript, Tailwind CSS, TanStack (Query, Router, Table)
-
-**Backend:** Golang, Node.js
-
-**Tooling:** Vite, Turborepo, Bun, Biome
+![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,tailwind,vite,nodejs,go,php,c,postgres,docker,git,figma&theme=dark&perline=8)
 
 ## Selected work
 
@@ -18,12 +14,12 @@ Team Lead at [Astergaze](https://github.com/astergaze-technologies). I build CRM
 
 **Asterconsult CRM** (private) – admin, student portal and omnichannel apps in a Turborepo monorepo
 
+## GitHub stats
+
+![GitHub streak](https://streak-stats.demolab.com?user=Krischal-Pote&theme=github-dark-blue&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krischal-Pote&layout=compact&theme=github_dark&hide_border=true)
+
 ## Contact
 
 🌐 [krischalompote.com.np](https://krischalompote.com.np/)
-
-## GitHub stats
-
-![Krischal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krischal-Pote&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krischal-Pote&layout=compact&theme=github_dark&hide_border=true)
