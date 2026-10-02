@@ -20,6 +20,10 @@ Team Lead at [Astergaze](https://github.com/astergaze-technologies). I build CRM
 
 [![npm version](https://img.shields.io/npm/v/wheel-of-fortune-kop?style=flat-square&color=cb3837)](https://www.npmjs.com/package/wheel-of-fortune-kop) [![npm downloads](https://img.shields.io/npm/dm/wheel-of-fortune-kop?style=flat-square)](https://www.npmjs.com/package/wheel-of-fortune-kop)
 
+**[letter-tracing-kop](https://www.npmjs.com/package/letter-tracing-kop)** – React letter-tracing component for kids on npm, with touch/stylus input, stroke order, accuracy score and a ready-made A–Z game ([demo](https://letter-tracing-94pgeqjco-krischalpotes-projects.vercel.app/), [source](https://github.com/Krischal-Pote/letter-tracing-kop))
+
+[![npm version](https://img.shields.io/npm/v/letter-tracing-kop?style=flat-square&color=cb3837)](https://www.npmjs.com/package/letter-tracing-kop) [![npm downloads](https://img.shields.io/npm/dm/letter-tracing-kop?style=flat-square)](https://www.npmjs.com/package/letter-tracing-kop)
+
 **[Interactive letter tracing game](https://medium.com/@crischal1234/have-you-ever-wondered-how-to-create-an-interactive-letter-tracing-game-on-the-web-26e191492169)** – article on building an interactive letter-tracing game for the web
 
 **Asterconsult CRM** (private) – admin, student portal and omnichannel apps in a Turborepo monorepo
